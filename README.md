@@ -14,3 +14,5 @@ pygame.display.update() - updates the game window with any changes made to the s
 pygame.quit() - quits the Pygame library and closes the game window
 sys.exit() - exits the Python interpreter
 In addition to these Pygame-specific methods, the code also uses built-in Python methods and functions such as import, list(), str(), ord(), and random.randrange().
+
+![Screen Shot 2023-04-06 at 2 36 10 PM](https://user-images.githubusercontent.com/116610117/230498602-27dd1004-2e6f-48d3-acc0-7516cb6b5ea3.png)
